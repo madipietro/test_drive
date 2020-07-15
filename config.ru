@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-          <h1>Welcome to the OpenShift 4.4 test drive v0.2</h1>
+          <h1>Welcome to the OpenShift 4.4 test drive v0.3</h1>
           </hgroup>
 
 
